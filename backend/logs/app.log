@@ -1,0 +1,308 @@
+[2025-11-02T14:06:10.661Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:06:14.554Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:07:28.846Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:07:28.849Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:07:30.135Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:10:36.030Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:10:36.033Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:10:36.883Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:10:47.706Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:10:47.709Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:10:48.494Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:10:51.274Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:10:51.277Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:10:52.041Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:12:31.865Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:12:31.867Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:12:32.756Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:15:49.530Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:15:49.534Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:15:50.376Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:16:56.543Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:16:56.546Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:16:57.805Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:17:01.588Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:17:01.590Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:17:02.465Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:25:02.946Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:25:02.949Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:25:03.789Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:26:40.033Z] INFO: GET /api/todos/ 200 - 84ms
+[2025-11-02T14:29:56.781Z] INFO: Created new todo: Test
+[2025-11-02T14:29:56.783Z] INFO: POST /api/todos/ 201 - 86ms
+[2025-11-02T14:32:39.050Z] INFO: Created new todo: Test 1
+[2025-11-02T14:32:39.051Z] INFO: POST /api/todos/ 201 - 87ms
+[2025-11-02T14:32:51.375Z] INFO: GET /api/todos/ 200 - 75ms
+[2025-11-02T14:36:24.314Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:36:24.318Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:36:25.243Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:39:24.345Z] INFO: Created new todo: Test 1
+[2025-11-02T14:39:24.351Z] INFO: POST /api/todos/ 201 - 99ms
+[2025-11-02T14:39:26.843Z] INFO: Created new todo: Test 1
+[2025-11-02T14:39:26.844Z] INFO: POST /api/todos/ 201 - 75ms
+[2025-11-02T14:42:41.877Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:42:41.880Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:42:42.759Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:42:44.097Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:42:44.101Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:42:44.958Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:42:59.798Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:42:59.800Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:43:00.619Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:43:01.534Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:43:01.537Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:43:02.320Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:43:03.203Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:43:03.206Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:43:03.991Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:43:41.161Z] INFO: GET /api/todos/1 404 - 2ms
+[2025-11-02T14:45:03.273Z] ERROR: Failed to update todo: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Todo"
+[2025-11-02T14:45:03.274Z] INFO: PUT /api/todos/1 500 - 6ms
+[2025-11-02T14:46:04.040Z] INFO: PUT /api/todos/69076d1c85849321cbbf7fb7 200 - 109ms
+[2025-11-02T14:49:38.187Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:49:38.190Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:49:47.081Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:49:47.084Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:49:47.900Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:49:59.611Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:49:59.615Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:50:00.408Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:05.102Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:05.106Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:50:05.938Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:27.508Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:27.511Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:50:28.287Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:32.127Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:32.130Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:50:32.843Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:35.886Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:35.888Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:50:36.647Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:44.354Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:44.357Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:50:45.326Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:52.621Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:52.625Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:50:53.438Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:56.542Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:56.546Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:50:57.356Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:58.268Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:50:58.270Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:50:59.103Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:51:31.116Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:51:31.119Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:51:32.018Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:51:36.655Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:51:36.659Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:51:37.539Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:51:52.331Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:51:52.333Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:51:53.086Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:01.005Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:01.008Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:52:01.833Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:04.579Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:04.581Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:52:05.342Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:06.000Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:06.002Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:52:06.790Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:07.538Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:07.541Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:52:08.499Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:11.061Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:11.065Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:52:11.920Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:13.843Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:13.846Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:52:14.633Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:17.423Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:17.426Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:52:18.816Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:27.153Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:27.156Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:52:27.972Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:38.299Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:38.302Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:52:39.187Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:52:41.019Z] INFO: PUT /api/todos/69076d1c85849321cbbf7fb7 200 - 89ms
+[2025-11-02T14:53:02.336Z] INFO: POST /api/todos/ 400 - 81ms
+[2025-11-02T14:54:37.813Z] ERROR: Failed to update todo: Plan executor error during findAndModify :: caused by :: E11000 duplicate key error collection: todosDB.todos index: title_1 dup key: { title: "Test 2" }
+[2025-11-02T14:54:37.815Z] INFO: PUT /api/todos/69076d1e85849321cbbf7fb9 500 - 80ms
+[2025-11-02T14:55:14.160Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:55:14.163Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:55:15.128Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:55:18.103Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:55:18.105Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:55:18.912Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:55:19.532Z] ERROR: Failed to update todo: Plan executor error during findAndModify :: caused by :: E11000 duplicate key error collection: todosDB.todos index: title_1 dup key: { title: "Test 2" }
+[2025-11-02T14:55:19.536Z] INFO: PUT /api/todos/69076d1e85849321cbbf7fb9 500 - 505ms
+[2025-11-02T14:56:18.903Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:56:18.905Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:56:19.773Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:56:23.790Z] ERROR: Failed to update todo: title is not defined
+[2025-11-02T14:56:23.793Z] INFO: PUT /api/todos/69076d1e85849321cbbf7fb9 500 - 4ms
+[2025-11-02T14:56:38.075Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:56:38.078Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:56:38.829Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:56:38.959Z] ERROR: Failed to update todo: Cannot access 'checkExisting' before initialization
+[2025-11-02T14:56:38.962Z] INFO: PUT /api/todos/69076d1e85849321cbbf7fb9 500 - 3ms
+[2025-11-02T14:56:49.238Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:56:49.241Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:56:50.090Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:56:50.989Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:56:50.992Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:56:51.760Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:56:54.107Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:56:54.110Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:56:54.885Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:56:59.259Z] ERROR: Failed to update todo: title is not defined
+[2025-11-02T14:56:59.262Z] INFO: PUT /api/todos/69076d1e85849321cbbf7fb9 500 - 3ms
+[2025-11-02T14:57:28.647Z] ERROR: Failed to update todo: title is not defined
+[2025-11-02T14:57:28.649Z] INFO: PUT /api/todos/69076d1c85849321cbbf7fb7 500 - 2ms
+[2025-11-02T14:57:38.414Z] ERROR: Failed to update todo: title is not defined
+[2025-11-02T14:57:38.415Z] INFO: PUT /api/todos/69076d1c85849321cbbf7fb7 500 - 2ms
+[2025-11-02T14:58:46.909Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:58:46.912Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:58:47.859Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:58:48.621Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:58:48.625Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:58:49.433Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:58:56.528Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:58:56.531Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:58:57.338Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:04.362Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:04.365Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:59:05.148Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:07.883Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:07.887Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:59:08.667Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:09.635Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:09.638Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:59:10.387Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:11.117Z] INFO: PUT /api/todos/69076d1c85849321cbbf7fb7 400 - 78ms
+[2025-11-02T14:59:35.969Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:35.972Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:59:36.737Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:43.115Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:43.117Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:59:43.838Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:44.516Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:44.519Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:59:45.331Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:46.059Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:46.062Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:59:46.830Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:55.007Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:55.011Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:59:55.927Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:58.708Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T14:59:58.712Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T14:59:59.463Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:00.632Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:00.635Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:00:01.421Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:06.247Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:06.251Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:00:07.078Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:07.535Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:07.538Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:00:08.349Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:10.394Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:10.397Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:00:11.166Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:13.416Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:13.419Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:00:14.149Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:16.479Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:16.482Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:00:17.222Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:20.202Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:20.206Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:00:21.002Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:27.719Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:27.721Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:00:28.510Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:48.406Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:48.409Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:00:49.209Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:51.705Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:51.707Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:00:52.464Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:56.317Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:00:56.321Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:00:57.119Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:03.143Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:03.146Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:03.892Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:05.123Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:05.126Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:05.959Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:18.766Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:18.770Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:19.621Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:20.677Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:20.679Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:21.990Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:21.993Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:22.828Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:25.786Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:25.789Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:26.614Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:29.416Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:29.419Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:30.234Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:32.264Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:32.266Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:33.002Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:38.750Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:38.753Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:39.831Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:39.834Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:40.596Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:48.695Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:48.698Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:49.414Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:50.319Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:50.323Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:51.120Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:56.370Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:01:56.374Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:01:57.161Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:03:27.633Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:03:27.635Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:03:28.589Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:03:29.324Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:03:29.327Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:03:30.135Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:03:35.076Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:03:35.079Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:03:35.788Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:03:43.966Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:03:43.969Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:03:44.736Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:03:45.359Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:03:45.361Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:03:46.116Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:03:46.927Z] INFO: PUT /api/todos/69076d1c85849321cbbf7fb7 400 - 80ms
+[2025-11-02T15:03:47.397Z] ERROR: Failed to update todo: Plan executor error during findAndModify :: caused by :: E11000 duplicate key error collection: todosDB.todos index: title_1 dup key: { title: "Test 1" }
+[2025-11-02T15:05:38.123Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:05:38.127Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:05:39.281Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:05:39.283Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:05:40.045Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:05:41.065Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:05:41.068Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:05:41.926Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:05:45.563Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:05:45.567Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:05:46.263Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:05:47.544Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:05:47.547Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:05:48.131Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:05:48.134Z] INFO: 🚀 Server running on port 5050
+[2025-11-02T15:05:48.859Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-02T15:08:25.448Z] INFO: Deleted todo: Test 2
+[2025-11-02T15:08:25.451Z] INFO: DELETE /api/todos/69076d1c85849321cbbf7fb7 204 - 84ms
