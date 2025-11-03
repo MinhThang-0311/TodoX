@@ -4,7 +4,7 @@ import { logError, logInfo } from "../untils/logger.js";
 // [GET] /api/todos
 export const getTodos = async (req, res, next) => {
   try {
-    const todos = await Todo.find();
+    const todos = await Todo.find().sort({ createdAt: -1 });
     res.status(200).json(todos);
   } catch (error) {
     logError("Failed to get todos: " + error.message);

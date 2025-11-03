@@ -306,3 +306,5 @@
 [2025-11-02T15:05:48.859Z] INFO: ✅ MongoDB connected successfully!
 [2025-11-02T15:08:25.448Z] INFO: Deleted todo: Test 2
 [2025-11-02T15:08:25.451Z] INFO: DELETE /api/todos/69076d1c85849321cbbf7fb7 204 - 84ms
+[2025-11-03T13:50:21.804Z] INFO: ✅ MongoDB connected successfully!
+[2025-11-03T13:50:21.810Z] INFO: 🚀 Server running on port 5050
